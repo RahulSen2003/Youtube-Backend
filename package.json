@@ -1,0 +1,16 @@
+{
+  "name": "git-backend",
+  "version": "1.0.0",
+  "description": "Youtube Clone Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "Youtube",
+    "Clone"
+  ],
+  "author": "Rahul Sen",
+  "license": "ISC"
+}
